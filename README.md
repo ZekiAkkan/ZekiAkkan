@@ -13,7 +13,7 @@ A passionate web developer from Turkey</div>
 - 🌱 I’m currently learning Data Science and Machine Learning  
   
 
-- ⚡ Fun fact: I'm not addicted to coffee, I just code better with coffee  
+
   
 
 <br/>  
