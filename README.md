@@ -7,7 +7,7 @@
 A passionate web developer from Turkey</div>  
   
 
-- 🔭 I’m currently working on .Net  
+- 🔭 I’m currently working on Python 
   
 
 - 🌱 I’m currently learning Data Science and Machine Learning  
