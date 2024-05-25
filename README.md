@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Zek
-A passionate web developer from Turkey</div>  
+A passionate software developer from Turkey</div>  
   
 
 - 🔭 I’m currently working on Python 
